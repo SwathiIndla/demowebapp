@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSmHDYol-bYFxjTBuM9j5g85-PsXzRC6497yclLp85cQmJWSSRYqzOhQ2bxdKfQY2l70qWsRqkShcuZcgA" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to swetha,swathi and kavya on behalf of DevOps Academy</h2>
